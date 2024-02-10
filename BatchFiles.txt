@@ -1,0 +1,100 @@
+Script Scheduler: Schedules other batch files to run at specific times.
+Batch File Compiler: Compiles batch files into executable programs.
+Error Logger: Logs errors from other scripts or applications.
+Automation Hub: A master script that provides a menu to run various automation scripts.
+Script Updater: Checks for updates to scripts stored on GitHub and updates them.
+Backup Files: Copies specific files or directories to a backup location.
+Clear Temp Files: Deletes temporary files to free up disk space.
+Disk Cleanup: Automates the Windows Disk Cleanup tool with predefined settings.
+Update System: Runs system update commands for Windows.
+Set System Restore Point: Creates a new system restore point.
+Export Registry Key: Exports a specific registry key for backup.
+Restore Registry Key: Imports a registry key file to restore settings.
+Enable/Disable Firewall: Toggles the Windows Firewall on or off.
+Change Network Settings: Automates the process of changing IP addresses and DNS settings.
+Monitor System Health: Runs system diagnostics and saves a report.
+Git Clone Repositories: Clones multiple repositories from a list.
+Setup Development Environment: Installs or updates development tools (like Node.js, Python).
+Database Backup: Backs up local development databases.
+Run Docker Containers: Starts a set of Docker containers for development.
+Merge PDF Files: Uses command-line tools to merge multiple PDF files into one.
+Encode/Decode Base64: Encodes or decodes files to/from Base64.
+Batch Image Resize: Resizes all images in a folder to a specified size.
+API Health Check: Sends requests to a list of APIs and checks their status.
+Compile and Build Project: Compiles source code and builds projects with predefined settings.
+Automate Testing: Runs a series of automated tests for a project.
+Rename Files Bulk: Renames files in bulk according to a specific pattern.
+Organize Downloads Folder: Sorts files in the Downloads folder into subfolders by type.
+Archive Old Files: Moves files older than a certain date to an archive folder.
+Sync Folders: Synchronizes files between two directories.
+Delete Duplicate Files: Searches for and deletes duplicate files in a directory.
+Convert File Formats: Converts files from one format to another (e.g., .txt to .pdf).
+Extract ZIP Files: Extracts all ZIP files in a folder.
+Create File List: Generates a text file listing all files in a directory.
+Lock Folder: Password-protects access to a specific folder.
+Find Large Files: Lists all files above a certain size threshold.
+Download Files: Downloads files from a list of URLs.
+Monitor Website Availability: Checks if a website is up and accessible.
+Ping Test: Pings a list of IP addresses or domains and reports the status.
+Change DNS Servers: Changes the system's DNS servers to a predefined set.
+Map Network Drive: Automatically maps a network drive.
+Disconnect VPN: Disconnects an active VPN connection.
+Reconnect VPN: Re-establishes a VPN connection.
+Clear DNS Cache: Flushes the DNS resolver cache.
+Test Network Speed: Runs a network speed test and logs the results.
+Email Notification: Sends an email notification using command-line email tools.
+Open Daily Websites: Opens a set of websites that you visit daily.
+Set Desktop Wallpaper: Changes the desktop wallpaper to a random image from a folder.
+Launch Applications: Opens a set of applications with one click.
+Daily Reminder: Displays daily reminders or to-do lists.
+Batch File Rename: Renames multiple files based on a pattern.
+Automate Keyboard Inputs: Simulates keyboard inputs for repetitive tasks.
+Schedule Meeting Reminders: Sets up reminders for meetings.
+Time Tracker: Starts a timer for tracking work hours on tasks.
+Automate Data Entry: Simulates data entry into forms or applications.
+Clipboard Manager: Saves the clipboard history to a file.
+Encrypt Files: Encrypts files using command-line encryption tools.
+Decrypt Files: Decrypts previously encrypted files.
+Generate Passwords: Creates strong, random passwords and saves them to a file.
+Scan for Malware: Initiates a malware scan using installed antivirus software.
+Secure Delete Files: Permanently deletes files beyond recovery.
+VPN Status Check: Checks if a VPN connection is active and alerts if not.
+Update Antivirus Definitions: Updates the antivirus software definitions.
+Check for Open Ports: Lists all open ports on the system.
+Audit Security Settings: Checks and reports on security settings compliance.
+Lock Computer: Locks the computer after a specified period of inactivity.
+Batch Convert Images: Converts images from one format to another in bulk.
+Monitor Folder Changes: Alerts when files are added, modified, or deleted in a folder.
+Automate Backups: Schedules and automates backups of important files.
+Create ToDo List: Generates or updates a ToDo list file.
+System Cleanup: Automates the process of cleaning up system files and freeing disk space.
+Install Software: Downloads and installs a list of software automatically.
+Uninstall Software: Uninstalls a list of software automatically.
+Generate System Report: Collects and exports a detailed system report.
+Update Drivers: Checks for and installs driver updates.
+Batch Watermark Images: Adds a watermark to all images in a folder.
+Play Music Playlist: Starts playing a music playlist in the default music player.
+Open Movie Directory: Opens a directory containing movies or TV shows.
+Game Launcher: Launches a selected game from a list of installed games.
+Set Game Mode: Optimizes system settings for gaming.
+Random Movie Picker: Picks a random movie from a list and opens its folder.
+Weather Report: Fetches and displays the current weather forecast.
+RSS Feed Reader: Downloads and displays the latest entries from an RSS feed.
+Start a Journal Entry: Opens a new or existing journal file with the current date.
+Automate Social Media Posts: Posts a message to social media platforms via CLI tools.
+Currency Converter: Converts an amount from one currency to another using an API.
+Track Package Delivery: Checks the delivery status of a package via carrier APIs.
+Text to Speech: Converts text files to audio using text-to-speech tools.
+Launch Virtual Machines: Starts a list of predefined virtual machines.
+Shutdown Timer: Sets a timer to shut down the computer.
+Restart Services: Restarts a list of Windows services.
+Flashcard Generator: Generates and displays flashcards from a list for study sessions.
+Quiz Game: Starts a simple quiz game with questions and answers defined in a file.
+Language Practice: Opens up resources for practicing a new language.
+Coding Practice Reminder: Sets reminders for coding practice sessions.
+Educational Resources Organizer: Organizes and opens educational resources by category.
+Exercise Reminder: Reminds you to take breaks and do short exercises.
+Water Intake Reminder: Reminds you to drink water throughout the day.
+Meditation Timer: Sets a timer for meditation sessions.
+Sleep Timer: Plays relaxing sounds for a set time to help with sleep.
+Vision Protection Reminder: Reminds you to take eye breaks when working on the computer.
